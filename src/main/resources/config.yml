@@ -1,0 +1,27 @@
+# maxHomeCount -> ホームとして設定可能な最大数
+#
+# 使用可能なプレスホルダー
+# %player:name% -> プレイヤー名
+# %player:uuid% -> UUID
+# %player:locale% -> プレイヤーの地域 (言語)
+# %player:address% -> プレイヤーのアドレス
+# %player:displayName% -> チャット等での表示名
+# %player:tabListName% -> タブリストでの表示名
+# %country% -> 国名
+# %countryCode% -> 国コード
+# %region% -> 地域コード
+# %regionName% -> 地域名
+
+maxHomeCount: 6
+
+inventorySort:
+  wandItem: stick
+  stackAll: true
+
+messages:
+  joinMessage:
+    enabled: true
+    message: '&e-> &6%player:name%&7 (%countryCode%)'
+  quitMessage:
+    enabled: true
+    message: '&e<- &6%player:name%&7 (%countryCode%)'
