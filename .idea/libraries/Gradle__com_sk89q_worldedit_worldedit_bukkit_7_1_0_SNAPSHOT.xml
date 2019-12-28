@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sk89q.worldedit:worldedit-bukkit:7.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/90a52e5bae668ebb0aa9d3ff0e3d083180a9f280/worldedit-bukkit-7.1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/54062692ce3818164a0796a3d6444c47058cab51/worldedit-bukkit-7.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/58343521fa63dad0b07cd249d91cfe66bd88edfe/worldedit-bukkit-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/4c3c36acfa65d075bd0bcff6efe7ed9080188c62/worldedit-bukkit-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/4339feecf773b9f3f13a55817ebccec919ffddae/worldedit-bukkit-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/c63ac161fc6240448bb18cc9898ea674e884d5d7/worldedit-bukkit-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-bukkit/7.1.0-SNAPSHOT/bb61382c86380f8ad38b1452120047b72b8940b7/worldedit-bukkit-7.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

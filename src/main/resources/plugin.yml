@@ -1,0 +1,75 @@
+name: A_Core
+version: Dev-1.1.0
+main: org.aoichaan0513.a_core.Main
+api-version: 1.14
+softdepend:
+  - LuckPerms
+  - WorldEdit
+  - WorldGuard
+authors:
+  - Aoichaan0513
+description: Core Plugin.
+website: http://aoichaan0513.xyz/
+
+commands:
+  mode:
+    usage: Mode Change Command.
+
+  gamemode:
+    usage: Gamemode Change Command.
+    aliases:
+      - gm
+      - gms
+      - gm0
+      - gmc
+      - gm1
+      - gma
+      - gm2
+      - gmsp
+      - gm3
+  disappear:
+    usage: Player Vanish Command.
+    aliases:
+      - vanish
+  appear:
+    usage: Player UnVanish Command.
+    aliases:
+      - unvanish
+
+  send:
+    usage: Send Title Command.
+  time:
+    usage: World Set Time Command.
+    aliases:
+      - morning
+      - day
+      - sunset
+      - night
+      - midnight
+
+  menu:
+    usage: Show MainMenu.
+
+  enderchest:
+    usage: Show EnderChest GUI.
+    aliases:
+      - ender
+      - ec
+  crafttable:
+    usage: Show CraftingTable GUI.
+    aliases:
+      - craft
+      - ct
+  sort:
+    usage: Inventory Sort.
+
+  home:
+    usage: Teleport / Set / Delete Home.
+    aliases:
+      - sethome
+      - delhome
+
+  lobby:
+    usage: Player Lobby Teleport.
+  spawn:
+    usage: World Spawnpoint Teleport.

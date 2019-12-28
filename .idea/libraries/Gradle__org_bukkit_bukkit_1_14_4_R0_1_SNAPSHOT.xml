@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: org.bukkit:bukkit:1.14.4-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/c331b06f26caac031eaccb9fbf7de0b5427360bf/bukkit-1.14.4-R0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/3f8b2e43f26c5ab195a8a8568ba1a47d736cbe1b/bukkit-1.14.4-R0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/5c83e134063afbdede187ce1e322ef08075961e7/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/32d86ef70725d79a55b7de98032aaf086719df8a/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/2d782f52d7a068bfe0d2aece6d5ccbfe9fd028a/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/84fefd5509a3a1c567de15c9a2beaee3af40f3de/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/c1dae9222cd680e4daee980f542eca053a79e1d6/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/c227bb7e8d1aa099626cacfc362b5f89f57d5daa/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/95189b2ea10e597f08459055e54e1a9149ef07cd/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bukkit/bukkit/1.14.4-R0.1-SNAPSHOT/da89ed5084f7f85a0b1c12fbbff9a70e68f857b2/bukkit-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

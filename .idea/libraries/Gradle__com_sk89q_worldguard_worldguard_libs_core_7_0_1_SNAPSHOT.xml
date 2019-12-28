@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sk89q.worldguard.worldguard-libs:core:7.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.1-SNAPSHOT/555575f90e25a632844d922227061e6203594b2b/core-7.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.1-SNAPSHOT/1b03ea23b7493c60353c213dddbc849c9a56c6f4/core-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.1-SNAPSHOT/7d34e50062f10566797d15697a427cfdcd2a526/core-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.1-SNAPSHOT/b521488527b337b5c8332c74680e317553d0a440/core-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.1-SNAPSHOT/40b724177784be22ee556c2faa1071147d4cc866/core-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.1-SNAPSHOT/ac551bfd4783f0b5df6833058ff9fcdbec1ac480/core-7.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

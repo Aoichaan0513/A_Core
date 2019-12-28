@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: org.spigotmc:spigot-api:1.14.4-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/a3288ca987167180cee567acd39be3ebe3df6cb2/spigot-api-1.14.4-R0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/8a557179bdba23fbfa602932f90295a1e6da2016/spigot-api-1.14.4-R0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/7baef7e072da468468806c3f04964e292d3d9ff3/spigot-api-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/2252e24ac859f446b7c50d555337bfdfc12c149/spigot-api-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/214675d0c304a3a5bcaf1855b4cef32072887a74/spigot-api-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/1266ed31f5f46254bdd38d82572760b40bfc3c3d/spigot-api-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/fdfa05e4ab9f92e86fed044fc3b54da7680d333d/spigot-api-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spigotmc/spigot-api/1.14.4-R0.1-SNAPSHOT/c0e49dfac7d9590c9c1a894e0b8d7b27b958c7e4/spigot-api-1.14.4-R0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

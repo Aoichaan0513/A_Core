@@ -1,0 +1,57 @@
+apply plugin: 'java'
+
+group = pluginGroup
+version = pluginVersion
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+    maven {
+        name = 'spigotmc-repo'
+        url = 'https://hub.spigotmc.org/nexus/content/groups/public/'
+    }
+    maven {
+        name = 'sonatype'
+        url = 'https://oss.sonatype.org/content/groups/public/'
+    }
+    maven {
+        name = 'sk89q-repo'
+        url = 'https://maven.enginehub.org/repo/'
+    }
+    maven {
+        name = 'jitpack-repo'
+        url 'https://jitpack.io'
+    }
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    // 必須ライブラリ
+    compile group: 'org.spigotmc', name: 'spigot-api', version: '1.14.4-R0.1-SNAPSHOT' //
+
+    compileOnly group: 'me.lucko.luckperms', name: 'luckperms-api', version: '4.4'
+    compileOnly group: 'com.sk89q.worldedit', name: 'worldedit-bukkit', version: '7.1.0-SNAPSHOT'
+    compileOnly group: 'com.sk89q.worldguard', name: 'worldguard-bukkit', version: '7.0.1-SNAPSHOT'
+    compileOnly group: 'com.github.MilkBowl', name: 'VaultAPI', version: '1.7'
+
+    // データ管理用ライブラリ
+    compile group: 'org.json', name: 'json', version: '20180813' //
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.16' //
+
+    // ツールライブラリ
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.9' //
+}
+
+import org.apache.tools.ant.filters.ReplaceTokens
+
+processResources {
+    from(sourceSets.main.resources.srcDirs) {
+        filter ReplaceTokens, tokens: [version: version]
+    }
+}
+
+compileJava.options.encoding = 'UTF-8'
+tasks.withType(AbstractCompile)*.options*.encoding = tasks.withType(GroovyCompile)*.groovyOptions*.encoding = 'UTF-8'

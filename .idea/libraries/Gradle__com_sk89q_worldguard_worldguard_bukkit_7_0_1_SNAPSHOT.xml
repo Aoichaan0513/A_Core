@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sk89q.worldguard:worldguard-bukkit:7.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.1-SNAPSHOT/ba96b49abbcf233704239ec6682c73aac4ef209e/worldguard-bukkit-7.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.1-SNAPSHOT/175472b8b5ace815a39760fa2d20b85fa58007c/worldguard-bukkit-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.1-SNAPSHOT/c2e4510d02c5809c9588466e630cd9c7c38d735c/worldguard-bukkit-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.1-SNAPSHOT/3737e925e66dffa6f76b4dacae2c3156a414b320/worldguard-bukkit-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.1-SNAPSHOT/cfa8af552554d486c76dee12e6d0493921c5e147/worldguard-bukkit-7.0.1-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.1-SNAPSHOT/d21083853e6ac7f22708a7396caee77391660695/worldguard-bukkit-7.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

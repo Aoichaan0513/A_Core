@@ -78,7 +78,7 @@ public class Home extends ICommand {
                 );
 
                 sp.teleport(loc);
-                sp.sendMessage(MainAPI.getPrefix(MainAPI.PrefixType.SECONDARY) + ChatColor.UNDERLINE + homeName + ChatColor.RESET + ChatColor.GRAY + "にテレポートしました。");
+                sp.sendMessage(MainAPI.getPrefix(MainAPI.PrefixType.SECONDARY) + ChatColor.GREEN + ChatColor.UNDERLINE + homeName + ChatColor.RESET + ChatColor.GRAY + "にテレポートしました。");
                 return;
             }
             sp.sendMessage(MainAPI.getPrefix(MainAPI.PrefixType.ERROR) + ChatColor.UNDERLINE + homeName + ChatColor.RESET + ChatColor.RED + "は設定されていないためテレポートできません。");

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sk89q.worldedit:worldedit-core:7.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/5a6a59113eb28d9b04d537106707323ae311f5a0/worldedit-core-7.1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/d07f9c9dcf0e6c4b082a72f8fbc4eb8d6b9bca90/worldedit-core-7.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/d9b84d2d8aa4f742fcbe101e3f3783332a13607a/worldedit-core-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/80694d167c68eb740ea2907841bbd5855d494a4b/worldedit-core-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/604dfde1e3826bed5aa1eb09229e6b5199c0df62/worldedit-core-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/e8e45a7d2cf449a32fa417e9e1331431e48b8395/worldedit-core-7.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldedit/worldedit-core/7.1.0-SNAPSHOT/a89980d3c9320ed7bc87d4cff009f5531c5bb0a2/worldedit-core-7.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
